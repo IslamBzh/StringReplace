@@ -1,0 +1,29 @@
+{
+  "name": "islambzh/string_replace",
+  "description": "This package contains one trait file that allows you to replace values in strings based on the provided data.",
+  "type": "library",
+  "keywords": [
+    "str_replace",
+    "php",
+    "replace",
+    "text",
+    "string"
+  ],
+  "homepage": "https://github.com/IslamBzh/StringReplace",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Islam Bzhakhov",
+      "email": "dev.islambzh@ya.ru",
+      "homepage": "https://IslamBzh.t.me"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "IslamBzh\\stringReplace\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=8.0"
+  }
+}
